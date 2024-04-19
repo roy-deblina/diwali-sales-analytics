@@ -24,7 +24,7 @@ In this analysis, we explore Diwali sales data to uncover consumer behavior patt
 
 ## Conclusion
 
-Based on the analysis, we found that married women in the age group of 26 to 35 years from states like Uttar Pradesh, Maharashtra, and Karnataka showed a higher interest in purchasing products during Diwali. They are primarily employed in sectors such as IT, Healthcare, and Aviation. Popular product categories among this demographic include food, clothing, and electronics.
+Based on the analysis, findings like married women in the age group of 26 to 35 years from states like Uttar Pradesh, Maharashtra, and Karnataka showed a higher interest in purchasing products during Diwali. They are primarily employed in sectors such as IT, Healthcare, and Aviation. Popular product categories among this demographic include food, clothing, and electronics.
 
 These insights can guide businesses in tailoring their product offerings, marketing campaigns, and strategies to target this specific demographic effectively, thereby optimizing sales and enhancing customer satisfaction during festive seasons.
 
